@@ -7,7 +7,7 @@ This is an **experimental app** that uses the Huggingface Inference API with the
 
 Inside `app.py` replace `<YOUR_ACCESS_TOKEN>` with your Huggingface's Access Token, then start the app with `python3 app.py`
 
-To generate an access token register a new account at https://huggingface.co, confirm your email then, from your account go to Settings->Access Tokens and click on `New token` and generate a new token with a rule " read". Perfect, now you can use your token to try and test the app.
+To generate an access token register a new account at https://huggingface.co, confirm your email then, from your account go to Settings->Access Tokens and click on `New token` and generate a new token with a rule " read". Use your token to try and test the app.
 
 when you start the app you will be asked `Print the Bash code needed to` ... complete the sentence with the action to be performed and see the result
 
